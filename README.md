@@ -10,7 +10,7 @@ INSERT VIDEO LINK HERE
 
 ## DigiVice AR Minigame
 
-Little game I made for Generacion espontánea INTERACTIVE using AR technologies. I used Vuforia SDK for the development of this application with Unity game Engine.
+Little game I made for Generacion espontánea INTERACTIVE using AR technologies. I used Vuforia SDK for the development of this application with Unity game Engine. This game is inspired by a DigiVice minigame I had when I was a kid.
 
 https://youtube.com/shorts/I3yj4FkAUM8?feature=share
 
