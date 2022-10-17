@@ -8,7 +8,11 @@ The objective of this work is to research how realistic illumination can be achi
 INSERT VIDEO LINK HERE
 
 
+## DigiVice AR Minigame
 
+Little game I made for Generacion espontánea INTERACTIVE using AR technologies. I used Vuforia SDK for the development of this application with Unity game Engine.
+
+https://youtube.com/shorts/I3yj4FkAUM8?feature=share
 
 
 
