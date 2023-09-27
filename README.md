@@ -6,6 +6,8 @@ The objective of this work is to research how realistic illumination can be achi
 
 
 https://youtube.com/shorts/f42fnO16fyY?feature=share
+
+This project was made for a lecture I cursed in Germany.
 [Game Lab.pdf](https://github.com/Domenecs/Portfolio/files/12738096/Game.Lab.pdf)
 
 ## *VRBeisbol Game*
