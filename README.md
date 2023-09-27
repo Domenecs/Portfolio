@@ -4,7 +4,9 @@
 
 The objective of this work is to research how realistic illumination can be achieved in different frameworks using Augmented Reality(AR) technologies. The game engine used for this project is Unity. The main techonologies I researched are: ARCore, ARKit and Vuforia.  With this project I also learned about how tracking types work and different kind of tracking that there are when using this kind of technology.
 
+
 https://youtube.com/shorts/f42fnO16fyY?feature=share
+[Game Lab.pdf](https://github.com/Domenecs/Portfolio/files/12738096/Game.Lab.pdf)
 
 ## *VRBeisbol Game*
 
