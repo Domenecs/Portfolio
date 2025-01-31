@@ -19,3 +19,11 @@ https://youtu.be/MyaVKrziMio
 ![1](https://user-images.githubusercontent.com/78756064/202531621-0283d5af-4fef-4918-ad3c-157ee975c36d.jpeg)
 ![2](https://user-images.githubusercontent.com/78756064/202531656-40a2950c-4861-4c1d-91de-978d96917e6c.jpeg)
 
+
+## *Thesis*
+Thesis I did in my stay in Germany for my Erasmus. The topic of the thesis is:
+Conception and realization of an augmented reality application for the use in the educational context.
+
+[TFG Domenec Miralles.pdf](https://github.com/user-attachments/files/18622638/TFG.Domenec.Miralles.pdf)
+
+
